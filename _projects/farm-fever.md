@@ -11,7 +11,6 @@ excerpt: "Group Project (Java)"
 Interactive game that simulates a farm. Users can plant, water, harvest, and sell crops. Users may encounter natural disasters such as drought and locust attack.
 I primarily worked on backend, doing class design, dependency management, and implementation.
 
-* [Watch Demo video](https://tinyurl.com/farmfever)
-* The source code for the project is not open for the public.
+<img src="http://irenelee5645.github.io/projectVis/farming.gif" width="400">
 
 *Summer 2020*
