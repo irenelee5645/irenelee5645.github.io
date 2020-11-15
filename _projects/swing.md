@@ -18,9 +18,9 @@ I have created various games as I explored JAVA Swing library.
     * use arrow keys to move the gun
     * use space bar to shoot
 
-![](http://irenelee5645.github.io/projectVis/cc0.png=200x) ![](http://irenelee5645.github.io/projectVis/cc2.png=200x) ![](http://irenelee5645.github.io/projectVis/cc3.png=200x)
+![](http://irenelee5645.github.io/projectVis/cc0.png =200x) ![](http://irenelee5645.github.io/projectVis/cc2.png =200x) ![](http://irenelee5645.github.io/projectVis/cc3.png =200x)
 
-![](http://irenelee5645.github.io/projectVis/cc.gif=600x)
+![](http://irenelee5645.github.io/projectVis/cc.gif =600x)
 
 
 **Flower Fifteen Puzzle**
@@ -29,9 +29,9 @@ I have created various games as I explored JAVA Swing library.
     * press shuffle to shuffle around the pieces
     * use arrow keys to move the whtie piece to reorganize the puzzle
 
-![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p1.png=300x) ![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p2.png=300x)
+![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p1.png =300x) ![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p2.png =300x)
 
-![Flower fifteen Puzzle video](http://irenelee5645.github.io/projectVis/5p.gif=500x) 
+![Flower fifteen Puzzle video](http://irenelee5645.github.io/projectVis/5p.gif =500x) 
 
 
 **Tic-Tac-Toe**
@@ -40,5 +40,5 @@ I have created various games as I explored JAVA Swing library.
     * Two players are needed
     * Each player takes turn and clicks on a tile
 
-![](http://irenelee5645.github.io/projectVis/ttt1.png=200x)
-![](http://irenelee5645.github.io/projectVis/ttt.gif=600x)
+![](http://irenelee5645.github.io/projectVis/ttt1.png =200x)
+![](http://irenelee5645.github.io/projectVis/ttt.gif =600x)
