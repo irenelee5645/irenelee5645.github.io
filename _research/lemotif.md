@@ -13,5 +13,4 @@ Lemotif is a computer vision project led by [Alice Li](mailto:xaliceli@gmail.com
 * [Watch App Demo video]( https://tinyurl.com/lemotifapp)
 * [See Project on GitHub](https://github.com/irenelee5645/Lemotif_IOS_APP)
 
-
-
+*Spring 2020 - Fall 2020*

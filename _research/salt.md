@@ -11,3 +11,5 @@ excerpt: 'Research Lab focused on Social NLP'
 
 
 I am currently part of [Georgia Tech's Social and Language Technologies (SALT)](https://www.cc.gatech.edu/~dyang888/group.html) Lab, which studies Social NLP. I am involved in two projects in the lab. In the first project, we study humor and develop classifier and generator with the goal of publish an interactive bot that provides various jokes. The other research studies data augmentation for language models.
+
+*Fall 2020-Present*
