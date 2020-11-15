@@ -31,7 +31,7 @@ Education
 ======
 B.S. Computer Science at Georgia Institute of Technology, 2019.8 ~ Present
 
-
+<!-- 
 Publications
 ======
-There are no publications yet.
+There are no publications yet. -->

@@ -11,6 +11,8 @@ redirect_from:
 
 [View PDF version Here](http://academicpages.github.io/files/resume.pdf)
 
+
+
 Education
 ======
 * B.S. Computer Science at Georgia Institute of Technology, 2019.8 ~ Present

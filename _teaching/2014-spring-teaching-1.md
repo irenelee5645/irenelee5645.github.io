@@ -8,13 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant
+* Summer 2020
+* Georgia Institute of Technology
+* CS 1332 - Data Structures and Algorithms
+    * The class covers basic data structures including queue, stack, tree, and heap, and also algorithms related to graph and dynamic programming. 
