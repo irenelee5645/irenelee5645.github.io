@@ -1,14 +1,12 @@
 ---
 title: "Java Swing Games"
-collection: teaching
+collection: projects
 type: "Personal Project (Java)"
 permalink: /projects/swing
 # venue: ""
 # date: June 2020
 # location: "City, Country"
 ---
-Summer 2019
-
 I have created various games as I explored Java Swing library.
 
 ## Shooting Game
@@ -53,5 +51,9 @@ Demo Video:
 
 ![](http://irenelee5645.github.io/projectVis/ttt1.png =200x)
 ![](http://irenelee5645.github.io/projectVis/ttt.gif =400x)
+
+
+
+*Summer 2019*
 
 View the projects on [GitHub](https://github.com/irenelee5645/Java-Swing-Games/tree/master/Swing%20Games)

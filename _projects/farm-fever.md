@@ -8,11 +8,10 @@ exceprt: "Group Project (Java)"
 # date: June 2020
 # location: "City, Country"
 ---
-Summer 2020
-
 Interactive game that simulates a farm. Users can plant, water, harvest, and sell crops. Users may encounter natural disasters such as drought and locust attack.
 I primarily worked on backend, doing class design, dependency management, and implementation.
 
 * [Watch Demo video](https://tinyurl.com/farmfever)
 * The source code for the project is not open for the public.
 
+*Summer 2020*
