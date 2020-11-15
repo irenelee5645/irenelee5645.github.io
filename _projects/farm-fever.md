@@ -1,6 +1,6 @@
 ---
 title: "Farm Fever"
-collection: project
+collection: talks
 type: "Group Project (Java)"
 permalink: /projects/farm-fever
 exceprt: "Group Project (Java)"
