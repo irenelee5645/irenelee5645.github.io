@@ -8,7 +8,7 @@ excerpt: "Various Mini Programs that use Java Swing Library"
 # date: June 2020
 # location: "City, Country"
 ---
-I have created various games as I explored Java Swing library.
+I have created various games as I was exploring Java Swing library.
 
 
 ## Shooting Game
