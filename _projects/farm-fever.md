@@ -2,7 +2,8 @@
 title: "Farm Fever"
 collection: project
 type: "Group Project (Java)"
-permalink: /teaching/farm-fever
+permalink: /projects/farm-fever
+exceprt: "Group Project (Java)"
 # venue: ""
 # date: June 2020
 # location: "City, Country"

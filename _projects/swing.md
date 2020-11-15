@@ -2,7 +2,7 @@
 title: "JAVA Swing Games"
 collection: project
 type: "Personal Project (Java)"
-permalink: /teaching/swing
+permalink: /projects/swing
 # venue: ""
 # date: June 2020
 # location: "City, Country"
@@ -20,7 +20,7 @@ I have created various games as I explored JAVA Swing library.
 
 ![](http://irenelee5645.github.io/projectVis/cc0.png =200x) ![](http://irenelee5645.github.io/projectVis/cc2.png =200x) ![](http://irenelee5645.github.io/projectVis/cc3.png =200x)
 
-![](http://irenelee5645.github.io/projectVis/cc.gif =600x)
+![](http://irenelee5645.github.io/projectVis/cc.gif =400x)
 
 
 **Flower Fifteen Puzzle**
@@ -41,4 +41,6 @@ I have created various games as I explored JAVA Swing library.
     * Each player takes turn and clicks on a tile
 
 ![](http://irenelee5645.github.io/projectVis/ttt1.png =200x)
-![](http://irenelee5645.github.io/projectVis/ttt.gif =600x)
+![](http://irenelee5645.github.io/projectVis/ttt.gif =400x)
+
+View the projects on [GitHub](https://github.com/irenelee5645/Java-Swing-Games/tree/master/Swing%20Games)

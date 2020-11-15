@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Science at Georgia Institute of Technology, 2019.8 ~ Present
+* **B.S. Computer Science** at Georgia Institute of Technology, 2019.8 ~ Present
 	* Honors Program
 	* Concentration in Intelligence and Theory
 
@@ -23,19 +23,19 @@ Education
 
 Experience
 ======
-* Research Intern
+* **Research Intern**
 	* Summer - Present
 	*  Software Platform Lab at Seoul National University
 	* Study low level optimization for Deep Learning
 	* Researching on optimized input pipelining system. 
   
-* Teaching Assistant
+* **Teaching Assistant**
 	* Summer 2020
 	* Georgia Institute of Technology
 	* CS 1332 - Data Structures and Algorithms
 		* The class covers basic data structures including queue, stack, tree, and heap, and also algorithms related to graph and dynamic programming. 
 
-* Corporate Outreach
+* **Corporate Outreach**
 	* Summer 2020 - Present
 	* Data Science @ Georgia Tech/ Hacklytics
 	* Reach out to club sponsors and maintain relations with current sponsors
@@ -44,29 +44,30 @@ Experience
 Skills
 ======
 
-* Programming
-	* C
-	* C++
-	* Java
-	* Python
+* **Programming**
+	* *C*
+	* *C++*
+	* *Java*
+	* *Python*
 	* MATLAB
 	* HTML
 	* CSS
 
-* Language
-
+* **Language**
 	* English - native
 	* Korean - native
 
+	*Most Proficient programming languages have been italicized*
+
 Research
 ======
-* Social and Language Technologies (SALT) Lab
+* **Social and Language Technologies (SALT) Lab**
 	* Fall 2020 - Present
 	* Natural Language Processing Research supervised by Dr. Diyi Yang
 	* Research on Humor Classification and Generation [On going]
 	* Research on Data Augmentation for Language Models [On going]
 
-* Lemotif Research
+* **Lemotif Research**
 	* Spring 2020 - Fall 2020
 	* Computer Vision Research supervised by Dr. Devi Parikh
 	* An intuitive journalling tool that embodies semantic analysis and image generation.
@@ -86,22 +87,22 @@ Projects
 
 Organizations
 ===
-* Data Science at Georgia Tech / Hacklytics
+* **Data Science at Georgia Tech / Hacklytics**
 	* Member ( Fall 2019 ~ ) 
 	* Corporate Outreach ( May 2020 ~ )
 	* Reach out to club sponsors and maintain relations with current sponsors
 	* Organize guest talks and workshops at Hacklytics
-* Programming Team
+* **Programming Team**
 	* member (Spring 2020  ~ )
 	* Learn and study various data structures and algorithms
 	* Prepare for competitive programming competitions such as ICPC.
 
 Judge Volunteers
 ===
-* HoneyWell STEM Challenge Judge 
+* **HoneyWell STEM Challenge Judge**
 	* December 2019
 	* Judge middle school students’ design of technology based solution for social good using Micro Bit.
-* Amazon EarSketch Competition Judge
+* **Amazon EarSketch Competition Judge**
 	* January 2019
 	* Assess coding skills of participants, who create songs in Python using EarSketch module
 

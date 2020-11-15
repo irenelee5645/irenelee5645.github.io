@@ -2,7 +2,9 @@
 title: "Drawing Panel"
 collection: project
 type: "Personal Project (Java)"
-permalink: /teaching/drawing-panel
+permalink: /projects/drawing-panel
+exceprt: "Personal Project (Java)"
+
 # venue: ""
 # date: July 2019
 # location: "City, Country"
