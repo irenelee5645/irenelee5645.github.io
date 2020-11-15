@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View PDF version Here](http://irenelee5645.github.io/files/resume.pdf)
+[View PDF version](http://irenelee5645.github.io/files/resume.pdf)
 
 
 
@@ -52,7 +52,7 @@ Skills
 	* MATLAB
 	* HTML
 	* CSS
-	
+
 	*Most Proficient programming languages have been italicized*
 
 * **Language**
