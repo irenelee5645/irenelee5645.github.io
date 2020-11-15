@@ -17,7 +17,7 @@ I have created various games as I explored JAVA Swing library.
 * How to play:
     * use arrow keys to move the gun
     * use space bar to shoot
-<img src="http://irenelee5645.github.io/projectVis/cc0.png =200x" alt="Flower fifteen Puzzle">
+<img src="http://irenelee5645.github.io/projectVis/cc0.png" alt="Flower fifteen Puzzle">
 ![](http://irenelee5645.github.io/projectVis/cc0.png =200x) ![](http://irenelee5645.github.io/projectVis/cc2.png =200x) ![](http://irenelee5645.github.io/projectVis/cc3.png =200x)
 
 ![](http://irenelee5645.github.io/projectVis/cc.gif =400x)
