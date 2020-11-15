@@ -11,6 +11,8 @@ excerpt: 'Computer Vision Project'
 
 Lemotif is a computer vision project led by [Alice Li](mailto:xaliceli@gmail.com) & [Devi Parikh](mailto:deviparikh@gmail.com). It is an intuitive journalling tool that embodies semantic analysis and image generation. I developed an IOS application for the project.
 
-* [Watch Demo video]( https://tinyurl.com/lemotifapp)
+* [Watch App Demo video]( https://tinyurl.com/lemotifapp)
 * [See Project on GitHub](https://github.com/irenelee5645/Lemotif_IOS_APP)
+
+
 
