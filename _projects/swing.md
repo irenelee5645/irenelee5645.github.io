@@ -18,11 +18,10 @@ I have created various games as I explored Java Swing library.
     * use arrow keys to move the gun
     * use space bar to shoot
 
-<img src="http://irenelee5645.github.io/projectVis/cc0.png" width="200" alt="Flower fifteen Puzzle">
-<!-- <img src="image_path" width="200" height="40" alt="Image Sample"> -->
-![](http://irenelee5645.github.io/projectVis/cc0.png =200x) ![](http://irenelee5645.github.io/projectVis/cc2.png =200x) ![](http://irenelee5645.github.io/projectVis/cc3.png =200x)
+<img src="http://irenelee5645.github.io/projectVis/cc0.png" width="200"> <img src="http://irenelee5645.github.io/projectVis/cc2.png" width="200"> <img src="http://irenelee5645.github.io/projectVis/cc3.png" width="200">
 
-![](http://irenelee5645.github.io/projectVis/cc.gif =400x)
+<img src="http://irenelee5645.github.io/projectVis/cc.gif" width="400">
+
 
 
 **Flower Fifteen Puzzle**
