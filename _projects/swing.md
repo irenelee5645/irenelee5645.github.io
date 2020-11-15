@@ -30,16 +30,18 @@ I have created various games as I explored Java Swing library.
     * press shuffle to shuffle around the pieces
     * use arrow keys to move the whtie piece to reorganize the puzzle
 
-![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p1.png =300x) ![Flower fifteen Puzzle](http://irenelee5645.github.io/projectVis/5p2.png =300x)
+<img src="http://irenelee5645.github.io/projectVis/5p1.png" width="300"> <img src="http://irenelee5645.github.io/projectVis/5p2.png" width="300"> 
 
-![Flower fifteen Puzzle video](http://irenelee5645.github.io/projectVis/5p.gif =500x) 
-
+<img src="http://irenelee5645.github.io/projectVis/5p.gif" width="500">
 
 **Tic-Tac-Toe**
 * A Tic-Tac-Toe with custom number of grids (default is 5)
 * How to play:
     * Two players are needed
     * Each player takes turn and clicks on a tile
+<img src="http://irenelee5645.github.io/projectVis/ttt1.png" width="200"> 
+
+<img src="http://irenelee5645.github.io/projectVis/ttt.gif" width="400">
 
 ![](http://irenelee5645.github.io/projectVis/ttt1.png =200x)
 ![](http://irenelee5645.github.io/projectVis/ttt.gif =400x)
