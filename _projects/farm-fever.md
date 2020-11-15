@@ -4,7 +4,7 @@ collection: project
 type: "Group Project (Java)"
 permalink: /teaching/farm-fever
 # venue: ""
-date: Summer 2020
+date: June 2020
 # location: "City, Country"
 ---
 

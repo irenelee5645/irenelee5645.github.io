@@ -12,7 +12,7 @@ Hi, I am Irene, a student at [Georgia Institute of Technology](https://www.gatec
 
 My Research
 ======
-I am currently part of [Georgia Tech's Social and Language Technologies (SALT)](https://www.cc.gatech.edu/~dyang888/group.html), which studies Social NLP. I am involved in two projects in the lab. In the first project, we study humor and develop classifier and generator with the goal of publish an interactive bot that provides various jokes. The other research studies data augmentation for language models.
+I am currently part of [Georgia Tech's Social and Language Technologies (SALT)](https://www.cc.gatech.edu/~dyang888/group.html) Lab, which studies Social NLP. I am involved in two projects in the lab. In the first project, we study humor and develop classifier and generator with the goal of publish an interactive bot that provides various jokes. The other research studies data augmentation for language models.
 
 Along with the NLP research, I am involved in Seoul National University's Software Platform Lab. Here, we analyze various deep learning tools and architectures with a goal of developing an optimized deep learning platform for faster training and inference. In the lab, I study input pipeline for various deep learning architectures in order to develop a faster input pipelining system.
 
