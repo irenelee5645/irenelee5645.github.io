@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Irene's Webpage About me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ At Georgia Tech, I am involved in [Honors Program](http://www.honorsprogram.gate
 
 I am part of the leadership team of [Data Science @ Georgia Tech](https://datasciencegt.org/) (DSGT) and Hacklytics. DSGT is a community of students passionate about data science. We hold workshops and various tech talks to help our data scientists pursue their passion. At DSGT, as a Corporate Outreach person, I reach out to potential club sponsors and maintain relations with our current sponsors as well as plan guest talks. Hacklytics is an annual data science hackathon hosted by DSGT. Here, I work under Operations Team also as a Corporate Outreach person. We  organize various workshops and special guest talks so that we can provide the best experience for participants. (If you are interested in joining DSGT or Hacklytics team please reach out to me!)
 
-I am also a member of [Programming Team](http://programmingteam.cc.gatech.edu/) of Georgia Tech. We learn and study various data structures and algorithms and prepare for competitive programming competitions. 
+I am also a member of [Programming Team](http://programmingteam.cc.gatech.edu/) of Georgia Tech. We learn and study various data structures and algorithms and prepare for competitive programming competitions such as ICPC. 
 
 
 Education
