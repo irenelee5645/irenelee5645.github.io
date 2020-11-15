@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Irene Lee"
-  avatar           : "profile.png"
+  avatar           : "pfp.jpg"
   bio              : "B.S Computer Science, Georgia Institute of Technology"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "irene.lee.prof@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
