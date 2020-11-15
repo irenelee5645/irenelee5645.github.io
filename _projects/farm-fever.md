@@ -3,7 +3,7 @@ title: "Farm Fever"
 collection: projects
 type: "Group Project (Java)"
 permalink: /projects/farm-fever
-exceprt: "Group Project (Java)"
+excerpt: "Group Project (Java)"
 # venue: ""
 # date: June 2020
 # location: "City, Country"

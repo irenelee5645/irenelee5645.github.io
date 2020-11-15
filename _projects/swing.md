@@ -3,6 +3,7 @@ title: "Java Swing Games"
 collection: projects
 type: "Personal Project (Java)"
 permalink: /projects/swing
+excerpt: "Various Mini Programs that use Java Swing Library"
 # venue: ""
 # date: June 2020
 # location: "City, Country"

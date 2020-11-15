@@ -3,7 +3,7 @@ title: "Drawing Panel"
 collection: projects
 type: "Personal Project (Java)"
 permalink: /projects/drawing-panel
-exceprt: "Personal Project (Java)"
+excerpt: "Personal Project (Java)"
 
 # venue: ""
 # date: July 2019
