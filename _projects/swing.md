@@ -10,6 +10,7 @@ excerpt: "Various Mini Programs that use Java Swing Library"
 ---
 I have created various games as I explored Java Swing library.
 
+
 ## Shooting Game
 * An archaic game that uses a keyboard
 * Goal: to shoot a chicken moving across the screen
@@ -25,6 +26,8 @@ Demo Video:
 
 
 
+
+
 ## Flower Fifteen Puzzle
 * A flower image based fifteen puzzle.
 * How to play
@@ -36,6 +39,9 @@ Demo Video:
 Demo Video:
 
 <img src="http://irenelee5645.github.io/projectVis/5p.gif" width="400">
+
+
+
 
 ## Tic-Tac-Toe
 * A Tic-Tac-Toe with custom number of grids (default is 5)
@@ -52,6 +58,8 @@ Demo Video:
 
 ![](http://irenelee5645.github.io/projectVis/ttt1.png =200x)
 ![](http://irenelee5645.github.io/projectVis/ttt.gif =400x)
+
+
 
 
 
