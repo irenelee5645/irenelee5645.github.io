@@ -1,6 +1,6 @@
 ---
 title: "Java Swing Games"
-collection: talks
+collection: teaching
 type: "Personal Project (Java)"
 permalink: /projects/swing
 # venue: ""
