@@ -1,5 +1,5 @@
 ---
-title: "JAVA Swing Games"
+title: "Java Swing Games"
 collection: talks
 type: "Personal Project (Java)"
 permalink: /projects/swing
@@ -9,7 +9,7 @@ permalink: /projects/swing
 ---
 Summer 2019
 
-I have created various games as I explored JAVA Swing library.
+I have created various games as I explored Java Swing library.
 
 **Shooting Game**
 * An archaic game that uses a keyboard
