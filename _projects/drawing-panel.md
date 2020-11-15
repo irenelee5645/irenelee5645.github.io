@@ -1,6 +1,6 @@
 ---
 title: "Drawing Panel"
-collection: talks
+collection: projects
 type: "Personal Project (Java)"
 permalink: /projects/drawing-panel
 exceprt: "Personal Project (Java)"

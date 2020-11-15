@@ -52,12 +52,13 @@ Skills
 	* MATLAB
 	* HTML
 	* CSS
+	
+	*Most Proficient programming languages have been italicized*
 
 * **Language**
 	* English - native
 	* Korean - native
 
-	*Most Proficient programming languages have been italicized*
 
 Research
 ======
