@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ireneleec/"
+  linkedin         : "ireneleec"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -122,7 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - projectVis
+  -
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
