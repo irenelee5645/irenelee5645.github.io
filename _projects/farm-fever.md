@@ -4,9 +4,10 @@ collection: project
 type: "Group Project (Java)"
 permalink: /teaching/farm-fever
 # venue: ""
-date: June 2020
+# date: June 2020
 # location: "City, Country"
 ---
+Summer 2020
 
 Interactive game that simulates a farm. Users can plant, water, harvest, and sell crops. Users may encounter natural disasters such as drought and locust attack.
 I primarily worked on backend, doing class design, dependency management, and implementation.

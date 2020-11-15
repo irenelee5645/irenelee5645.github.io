@@ -1,8 +1,8 @@
 ---
-title: "Social Language and Technolgoies Lab"
+title: "Social Language and Technolgoies(SALT) Lab"
 collection: research
 permalink: /research/salt
-excerpt: 'Georgia Tech Social Language and Technolgoies Lab'
+excerpt: 'Research Lab focused on Social NLP'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
