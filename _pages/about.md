@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Irene, a student at [Georgia Institute of Technology](https://www.gatech.edu/) pursuing Bachelor of Science in Computer Science. I am passionate about Artificial Intelligence, especially in the field of Deep Learning.  My research interest includes, computer vision, natural language and neural architecture search. 
+Hi, I am Irene, a student at [Georgia Institute of Technology](https://www.gatech.edu/) pursuing Bachelor of Science in Computer Science. I am passionate about Artificial Intelligence, especially in the field of Deep Learning.  My research interest includes computer vision, natural language and neural architecture search. 
 
 My Research
 ======
