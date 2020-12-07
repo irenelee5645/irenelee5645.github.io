@@ -50,8 +50,7 @@ Skills
 	* *Java*
 	* *Python*
 	* MATLAB
-	* HTML
-	* CSS
+
 
 	*Most Proficient programming languages have been italicized*
 
