@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View PDF version](http://irenelee5645.github.io/files/resume.pdf)
+[View PDF version](http://irenelee5645.github.io/files/new_resume.pdf)
 
 
 
