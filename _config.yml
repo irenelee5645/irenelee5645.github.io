@@ -194,6 +194,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -265,6 +268,16 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+      comment: true
+  
+  #papers
+  - scope:
+      path: ""
+      type: papers
     values:
       layout: talk
       author_profile: true
