@@ -5,6 +5,9 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Papers"
+    url: /papers/
   
   # - title: "Community"
   #     url: /community/
@@ -21,8 +24,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Papers"
-    url: /papers/
+  
     
   # - title: "Guide"
   #   url: /markdown/
