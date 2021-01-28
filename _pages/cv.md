@@ -81,6 +81,13 @@ Projects
   {% endfor %}</ul>
 
 
+Papers
+======
+  <ul>{% for post in site.papers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 
 
 
