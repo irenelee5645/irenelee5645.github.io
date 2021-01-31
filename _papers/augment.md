@@ -3,7 +3,7 @@ title: "Analysis of Input Pipeline Overhead for Training Image Classifiers with 
 collection: research
 permalink: /research/augment
 excerpt: ''
-date: 2020-11-23
+# date: 2020-11-23
 venue: 'KSC'
 # paperurl: 'https://drive.google.com/file/d/1MA4LWGUXRF5iSLmWW2ehyXMJ66W6x_hM/view?usp=sharing'
 citation: 'Irene Lee (Georgia Tech), Gyewon Lee(Seoul National University), Byung-Gon Chun.'
