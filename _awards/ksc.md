@@ -9,4 +9,5 @@ venue: "Korea SoftWare Conference(KSC)"
 date: 2020-11-23
 # location: "City, Country"
 ---
-### [Analysis of Input Pipeline Overhead for Training Image Classifiers with Data Augmentation](https://irenelee5645.github.io/papers/augment)
+### Paper
+[Analysis of Input Pipeline Overhead for Training Image Classifiers with Data Augmentation](https://irenelee5645.github.io/papers/augment)
