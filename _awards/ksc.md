@@ -5,9 +5,12 @@ collection: awards
 permalink: /awards/KSC
 # excerpt: "Personal Project (Java)"
 
-venue: "Korea SoftWare Conference(KSC)"
+# venue: "Korea SoftWare Conference(KSC)"
 date: 2020-11-23
 # location: "City, Country"
 ---
-### Paper
+
+## Korea Software Conference 2020
+
+## Paper
 [Analysis of Input Pipeline Overhead for Training Image Classifiers with Data Augmentation](https://irenelee5645.github.io/papers/augment)
