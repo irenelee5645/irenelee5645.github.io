@@ -197,6 +197,9 @@ collections:
   papers:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -278,6 +281,16 @@ defaults:
   - scope:
       path: ""
       type: papers
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+      comment: true
+
+  #awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: talk
       author_profile: true

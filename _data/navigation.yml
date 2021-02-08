@@ -9,6 +9,9 @@ main:
   - title: "Papers"
     url: /papers/
   
+  - title: "Awards"
+    url: /awards/
+  
   # - title: "Community"
   #     url: /community/
 
