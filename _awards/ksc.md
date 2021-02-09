@@ -10,3 +10,8 @@ date: 2020-11-23
 # location: "City, Country"
 ---
 
+# Grand Prize
+Korea Software Conference(KSC 2020) Undergraduate Division.
+
+# Paper
+*[Analysis of Input Pipeline Overhead for Training Image Classifiers with Data Augmentation](https://irenelee5645.github.io/papers/augment)*
